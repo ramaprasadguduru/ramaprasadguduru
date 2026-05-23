@@ -1,96 +1,69 @@
-<div align="center">
+I want you to create a professional DevOps Engineer GitHub profile README.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramaprasadguduru&label=Profile%20Views&color=0e75b6&style=flat)
+MY DETAILS:
+- Name: Guduru Ramaprasad
+- Role: DevOps Engineer
+- Experience: 6+ years
+- Tech Stack: Git, Linux, Azure, Azure DevOps, Docker, Kubernetes, CI/CD, SonarQube
+- LinkedIn: https://www.linkedin.com/in/ramaprasadguduru/
+- Portfolio: https://softwarekuli.github.io
+- GitHub: https://github.com/ramaprasadguduru
 
-</div>
+INSTRUCTIONS:
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="28">
-  <h1>Hi, I'm Ramaprasad Guduru</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="28">
-</div>
+1. Create sections with the following content:
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DevOps+Engineer;Cloud+Architect;CI%2FCD+Specialist;Infrastructure+Expert;" alt="Typing SVG" />
-</div>
+SECTION A - ANIMATED HEADER
+- Add a waving hand GIF greeting
+- Add animated typing effect showing: "DevOps Engineer | Cloud Architect | Infrastructure Expert"
+- Center-aligned with professional styling
 
----
+SECTION B - ABOUT ME
+- Write a professional 3-4 line introduction highlighting DevOps expertise
+- Mention: Cloud infrastructure, CI/CD automation, Kubernetes, Azure
+- Add 4 bullet points with relevant emojis about specializations
+- Include: automation enthusiasm, cloud-native architecture, problem-solving mindset
 
-## 🧑‍💻 About Me
+SECTION C - TECH STACK
+- Organize by categories: Cloud Platforms, Containerization & Orchestration, CI/CD & DevOps Tools, Version Control & OS
+- Use shields.io badges with logos and colors
+- Tech to include: Azure, Azure DevOps, Docker, Kubernetes, CI/CD, SonarQube, Git, Linux
 
-I'm a passionate **DevOps Engineer** with **6+ years** of experience in cloud infrastructure, continuous integration/continuous deployment, and container orchestration. I specialize in automating workflows, optimizing deployments, and building scalable solutions on Azure and Kubernetes.
+SECTION D - GITHUB STATS
+- GitHub Stats Card (tokyonight theme)
+- GitHub Streak Stats (tokyonight theme)
+- Top Languages Card (compact layout)
+- All centered with proper spacing
 
-- 🚀 Cloud-native architecture and DevOps automation enthusiast
-- 📚 Continuous learner in cutting-edge cloud technologies
-- 💡 Problem solver who loves optimizing processes
-- 🎯 Focused on infrastructure as code and CI/CD excellence
-- 🔧 Strong advocate for automation and monitoring
+SECTION E - GITHUB TROPHIES
+- GitHub Profile Trophy widget (darkhub theme)
+- Full row display
 
----
+SECTION F - SOCIAL LINKS
+- LinkedIn badge with link
+- GitHub badge with link
+- Portfolio badge with link
+- All clickable and centered
 
-## 🛠️ Tech Stack
+SECTION G - VISITOR COUNTER
+- Add komarev profile views counter at the top
 
-### **Cloud & Platforms**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+SECTION H - FOOTER
+- "Let's Connect & Collaborate" heading
+- Call-to-action about DevOps collaboration
+- Fun closing line with GIF
 
-### **Containerization & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+FORMATTING REQUIREMENTS:
+- Use professional Markdown with proper spacing
+- Center-align headers and badges
+- Use consistent emoji styling
+- Make it modern and visually appealing
+- All links must be clickable
+- Use theme: tokyonight for stats, darkhub for trophies
 
-### **CI/CD & Automation**
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-### **Version Control & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ramaprasadguduru&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ramaprasadguduru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramaprasadguduru&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramaprasadguduru&theme=darkhub&no-bg=true&row=1&column=6" alt="Trophy" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramaprasadguduru/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramaprasadguduru)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://softwarekuli.github.io)
-
-</div>
-
----
-
-<div align="center">
-  <h3>💬 Let's Connect & Collaborate!</h3>
-  <p>Feel free to reach out for DevOps consulting, infrastructure automation, or just to chat about cloud technologies.</p>
-  
-  ⭐ If you find my projects helpful, please give them a star!
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
+RULES:
+- Do NOT ask questions - just generate the complete README
+- Use my actual GitHub username: ramaprasadguduru
+- Ensure all URLs are correct and functional
+- Make it modern, clean, and professional
+- Include all sections in order A through H
